@@ -43,15 +43,15 @@ function Hero() {
                 <TypeAnimation
                   cursor={true}
                   sequence={[
-                    500,
+                    700,
                     'A Full-Stack Developer.',
-                    'Software Developer',
+                    'Flutter Developer',
                     'FrontEnd Developer',
                     'BackEnd Developer',
                     'That Developer',
                     'This Developer',  
                     'Yeah i know that was not funny....',
-                    1000,
+                    1300,
                     'A B-Tech graduate.',
                     'I design and code beautifully simple things, and I love what I do.',
                     1000,
@@ -104,7 +104,7 @@ function Hero() {
                 alt="Emoji"
               /> */}
               <Image
-                src="https://ik.imagekit.io/cwposhjd5z/img%202.webp?updatedAt=1727360083386"
+                src="https://ik.imagekit.io/cwposhjd5z/portfolio/img.webp?updatedAt=1753615136841"
                 alt="Emoji2"
               />
             </ScrollAnimation>

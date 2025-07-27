@@ -1,7 +1,25 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://ik.imagekit.io/cwposhjd5z/Ecommerce.png?updatedAt=1727362559437",
+    img: "https://ik.imagekit.io/cwposhjd5z/portfolio/Untitled%20design.png?updatedAt=1753617528991",
+    title: "Flutter Masjid App",
+    description:
+      "Cross-platform Flutter app for masjid community with 30+ modules like prayer times, events, donations; powered by Node.js backend with admin panel, role-based access, and real-time content management.",
+    tech_stack: ["Flutter", "Provider", "Node.js","Express", "MongoDb"],
+    github_url: "https://github.com/moFazil?tab=repositories",
+    demo_url: "https://play.google.com/store/apps/details?id=com.techzurf.demomasjid",
+  },
+  {
+    img: "https://ik.imagekit.io/cwposhjd5z/portfolio/Screenshot%202025-07-27%20171318.png?updatedAt=1753616634213",
+    title: "Accountancy Web App",
+    description:
+      "An account management app for vendor shops to handle daily transactions, generate invoices, track customer records, monitor balances, and manage roles securely with controlled access for superadmins, admins, and users.",
+    tech_stack: ["ReactJs", "Redux", "TailwindCSS","Node.js","Express", "MongoDb"],
+    github_url: "https://github.com/moFazil?tab=repositories",
+    demo_url: "https://masjidsoft.site/",
+  },
+  {
+    img: "https://ik.imagekit.io/cwposhjd5z/portfolio/Screenshot%202025-07-27%20165142.png?updatedAt=1753615357298",
     title: "Ecommerce Full Stack",
     description:
       "Implemented a secure payment gateway, handling 1,000+ transactions monthly. Developed an admin dashboard and integrated AR/VR features, increasing user engagement by 40%.",
@@ -10,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://d-similar-chi.vercel.app/",
   },
   {
-    img: "https://ik.imagekit.io/cwposhjd5z/Video%20Editor.png?updatedAt=1727362558420",
+    img: "https://ik.imagekit.io/cwposhjd5z/portfolio/Screenshot%202025-07-27%20165328.png?updatedAt=1753615434697",
     title: "Video Editor",
     description:
       "Engineered a web-based video editor with TypeScript and Next.js. Achieved a 50% reduction in latency forreal-time processing.",
@@ -19,31 +37,13 @@ export const ProjectList = [
     demo_url: "https://reels-maker-effe.vercel.app/editor",
   },
   {
-    img: "https://ik.imagekit.io/cwposhjd5z/AR-Furniture.png?updatedAt=1727362558957",
+    img: "https://ik.imagekit.io/cwposhjd5z/portfolio/Screenshot%202025-07-27%20165613.png?updatedAt=1753615621471",
     title: "AR Furniture",
     description:
       "Developed AR features with Google Model Viewer API.Increased user engagement and session duration by 25% through interactive 3D models and immersive experiences.",
     tech_stack: ["HTML", "CSS", "JavaScript", "ReactJs"],
     github_url: "https://github.com/moFazil/Ar-furniture",
     demo_url: "https://effe-furniture.vercel.app/",
-  },
-  {
-    img: "https://ik.imagekit.io/cwposhjd5z/Face%20Detection.jpg?updatedAt=1727362558586",
-    title: "Face Detection",
-    description:
-      "A face detection website built using JavaScript and TensorFlow that accurately detects and highlights faces in real-time through the browser.",
-    tech_stack: ["JavaScript", "TensorFLow"],
-    github_url: "https://github.com/moFazil/Face-Detection",
-    demo_url: "https://virtual-lab-ten.vercel.app/",
-  },
-  {
-    img: "https://ik.imagekit.io/cwposhjd5z/JobFair.png?updatedAt=1727362573367",
-    title: "Job Fair Registration",
-    description:
-      "Directed full-stack development, improving backend processes and achieving a 30% increase in userregistration.Implemented automated email notifications & efficient data storage solutions.",
-    tech_stack: ["ReactJs", "TailwindCSS", "NodeJs","ExpressJS", "MongoDB"],
-    github_url: "https://github.com/moFazil/JobFair-Form",
-    demo_url: "https://snazzy-phoenix-da8bb3.netlify.app/",
   },
 ];
 
@@ -63,16 +63,12 @@ export const stackList = [
     name: "JavaScript",
   },
   {
+    img: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg",
+    name: "Flutter",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "ReactJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
@@ -85,18 +81,6 @@ export const stackList = [
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
-  },
-  {
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg",
-    name: "Spring Boot",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
-    name: "MySQL",
   },
   {
     img: "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",

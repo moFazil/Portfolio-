@@ -17,7 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="https://ik.imagekit.io/cwposhjd5z/img.webp?updatedAt=1727359780225"
+            src="https://ik.imagekit.io/cwposhjd5z/portfolio/img%202.webp?updatedAt=1753616729372"
             alt="Emoji"
           />
         </ScrollAnimation>

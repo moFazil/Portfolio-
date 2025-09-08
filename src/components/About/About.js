@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Mohammed Fazil</strong>. I'm from Chennai and I've got 1+ years of experience in <strong>Software Development</strong>.
+            Hello! My name is <strong>Mohammed Fazil</strong>. I'm from Chennai, India and I've got 2+ years of experience in <strong>Software Development</strong>.
             </ScrollAnimation>
 
             <br /><br />
